@@ -9,3 +9,4 @@ kyle isn't here so i have no reason to <a href="secret" style="color: black; tex
 ok lets get to business
 -----------------------
 
+*business*
